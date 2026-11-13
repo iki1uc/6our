@@ -1,0 +1,5 @@
+1, 2, 3, 4
+ORT → ORT.EN → UM → HOME → ZEN.AURA.MANA → CY.C.L → ENERGIE → FALLE → ORI.E.FUEL
+ORT = wo · UM = drum · HOME = 40 · ZEN/AURA/MANA = Energie
+CY.C.L = CYCLUS · LIEBE/HASS = +M/-M · ENERGIE = MATT→MATTER
+FALLE = 43 = 40+3 · ORI.E.FUEL = ORI SCHEIN als Treibstoff
