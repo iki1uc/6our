@@ -1,21 +1,21 @@
-# [6our] · Layer‑0 Dreieck
+#  · Layer-0 Dreieck
 
-Dieses Repository ist ein Teil der [Triolet‑Struktur](ca://s?q=Triolet_Struktur).
-Es trägt nur drei Zeichen: [6our].
+Dieses Repository ist ein Teil der Triolet-Struktur.
+Es trägt nur drei Zeichen: .
 
 ## Kern
-ID.html – [ID‑Kern](ca://s?q=ID_Kern)  
-index.html – Darstellung  
+ID.html – ID-Kern
+index.html – Darstellung
 README.md – Bedeutung
 
 ## Puzzle
 <div class="puzzle" data-piece="[ABC]"></div>
 
 ## Struktur
-- [suite‑Basis](ca://s?q=suite_Basis)  
-- [slide‑Flow](ca://s?q=slide_Flow)  
-- [dim‑Ebene](ca://s?q=dim_Ebene)
+- suite-Basis
+- slide-Flow
+- dim-Ebene
 
-Drei Dateien.  
-Drei Zeichen.  
+Drei Dateien.
+Drei Zeichen.
 Ein Dreieck.
