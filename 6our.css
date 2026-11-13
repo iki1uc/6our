@@ -1,0 +1,8 @@
+// PX6 Inhalt — JS Stütze
+function PX3(x){ return x + 3 }
+function PX4(x){ return x * 4 }
+function PX6(x){ return x ** 6 }
+function PX9(x){ return Math.sin(x) * 9 }
+function PIPELENIESIEREN(x){
+  return PX6(PX4(PX3(x)));
+}
